@@ -31,11 +31,11 @@ p{
   padding-right: 10%;
 }
 .container-head {
-  min-height: 100vh;
+  min-height: 85vh;
   width: 100%;
 
 }.container{
-  min-height: 85vh;
+  min-height: 75vh;
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
